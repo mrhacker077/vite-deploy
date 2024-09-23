@@ -1,38 +1,38 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "images/css.png"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "skills/javascript.png"
+      "imageSrc": "images/javascript.png"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "images/react.png"
     },
     {
       "title": "Node",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "images/node.png"
     },
     {
       "title":"Firebase",
-      "imageSrc":"skills/firebase.png"
+      "imageSrc":"images/firebase.png"
     },
     {
       "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "imageSrc": "images/graphql.png"
     },
     {
       "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "imageSrc": "images/mongodb.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "images/figma.png"
     }
   ]
