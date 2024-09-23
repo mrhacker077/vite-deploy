@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import pdf from "../pdf/resume.pdf";
-
+import hero from "./data/hero.json";
 import Typed from "typed.js";
 
 const Home = () => {
@@ -41,7 +41,7 @@ const Home = () => {
         </div>
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
-            <img src="assets/me.png" alt="hero" />
+            <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
         </div>
       </div>
